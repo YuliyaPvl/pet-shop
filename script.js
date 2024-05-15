@@ -58,7 +58,7 @@ const items = [
   {
     name: 'Фурминатор для собак с короткой шерстью',    
     image: 'https://zoofauna.by/images/stories/virtuemart/product/FURminator6.jpg',
-    price: 410,
+    price: 400,
     tags: ['Собака', 'Расческа'],
     description: 'Фурминатор средний для короткошерстных собак.',
     rating: 4.2,
